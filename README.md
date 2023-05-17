@@ -8,7 +8,7 @@ A Simple telegram bot written in python to forward your files from one channel t
 You can deploy this code any where you want but we provided heroku and railway deploy methods below
 
 - Select one of the methods
-     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/auto-caption-bot](https://github.com/dreamhackerrealpro/Auto-Forward-Bot?organization=dreamhackerrealpro&organization=dreamhackerrealpro))
+     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://github.com/dreamhackerrealpro/Auto-Forward-Bot?organization=dreamhackerrealpro&organization=dreamhackerrealpro])
 
      - [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
 
